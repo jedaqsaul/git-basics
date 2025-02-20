@@ -6,4 +6,5 @@ The git commands we have learnt include :
 `Git status`
 `Git commit`
 `Git push`
-`Git init``Git basics`
+`Git init`
+`Git basics`
